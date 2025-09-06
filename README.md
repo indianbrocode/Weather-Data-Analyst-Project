@@ -1,4 +1,7 @@
 # Weather-Data-Analyst-Project
+
+![Uploading mceclip0.png…]()
+
 Weather Data Analysis Project
 # Project-1_Weather_Data_Analysis
 Big Data Analysis with Python
