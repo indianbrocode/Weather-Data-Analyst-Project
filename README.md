@@ -1,6 +1,7 @@
 # Weather-Data-Analyst-Project
 
-![Uploading mceclip0.png…]()
+
+<img width="1107" height="697" alt="mceclip0" src="https://github.com/user-attachments/assets/99ae2fcb-de4c-4a18-a0af-32f6308a9db0" />
 
 Weather Data Analysis Project
 # Project-1_Weather_Data_Analysis
